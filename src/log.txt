@@ -1,0 +1,954 @@
+2020-02-09 18:17:33 ERROR ConnectionUtil:13 - class java.sql.SQLException: ORA-01017: invalid username/password; logon denied
+
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 456: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 451: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 1040: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 552: oracle.jdbc.driver.T4CTTIoauthenticate
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 501: oracle.jdbc.driver.T4CTTIoauthenticate
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 1292: oracle.jdbc.driver.T4CTTIoauthenticate
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 1025: oracle.jdbc.driver.T4CTTIoauthenticate
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 743: oracle.jdbc.driver.T4CConnection
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 793: oracle.jdbc.driver.PhysicalConnection
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 57: oracle.jdbc.driver.T4CDriverExtension
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 747: oracle.jdbc.driver.OracleDriver
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 562: oracle.jdbc.driver.OracleDriver
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 664: java.sql.DriverManager
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 247: java.sql.DriverManager
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 35: com.revature.utils.ConnectionUtil
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 34: com.revature.data.LotOracle
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 152: com.revature.beans.Menus
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 75: com.revature.beans.Menus
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 69: com.revature.driver.Driver
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 31: com.revature.driver.Driver
+2020-02-09 18:17:33 WARN  ConnectionUtil:15 - 16: com.revature.driver.Driver
+2020-02-09 18:17:33 ERROR LotOracle:13 - class java.lang.NullPointerException: null
+2020-02-09 18:17:33 WARN  LotOracle:15 - 38: com.revature.data.LotOracle
+2020-02-09 18:17:33 WARN  LotOracle:15 - 152: com.revature.beans.Menus
+2020-02-09 18:17:33 WARN  LotOracle:15 - 75: com.revature.beans.Menus
+2020-02-09 18:17:33 WARN  LotOracle:15 - 69: com.revature.driver.Driver
+2020-02-09 18:17:33 WARN  LotOracle:15 - 31: com.revature.driver.Driver
+2020-02-09 18:17:33 WARN  LotOracle:15 - 16: com.revature.driver.Driver
+2020-02-09 18:25:14 ERROR ConnectionUtil:13 - class java.sql.SQLException: ORA-01017: invalid username/password; logon denied
+
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 456: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 451: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 1040: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 552: oracle.jdbc.driver.T4CTTIoauthenticate
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 501: oracle.jdbc.driver.T4CTTIoauthenticate
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 1292: oracle.jdbc.driver.T4CTTIoauthenticate
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 1025: oracle.jdbc.driver.T4CTTIoauthenticate
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 743: oracle.jdbc.driver.T4CConnection
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 793: oracle.jdbc.driver.PhysicalConnection
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 57: oracle.jdbc.driver.T4CDriverExtension
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 747: oracle.jdbc.driver.OracleDriver
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 562: oracle.jdbc.driver.OracleDriver
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 664: java.sql.DriverManager
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 247: java.sql.DriverManager
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 34: com.revature.utils.ConnectionUtil
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 34: com.revature.data.LotOracle
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 152: com.revature.beans.Menus
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 75: com.revature.beans.Menus
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 69: com.revature.driver.Driver
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 31: com.revature.driver.Driver
+2020-02-09 18:25:14 WARN  ConnectionUtil:15 - 16: com.revature.driver.Driver
+2020-02-09 18:25:14 ERROR LotOracle:13 - class java.lang.NullPointerException: null
+2020-02-09 18:25:14 WARN  LotOracle:15 - 38: com.revature.data.LotOracle
+2020-02-09 18:25:14 WARN  LotOracle:15 - 152: com.revature.beans.Menus
+2020-02-09 18:25:14 WARN  LotOracle:15 - 75: com.revature.beans.Menus
+2020-02-09 18:25:14 WARN  LotOracle:15 - 69: com.revature.driver.Driver
+2020-02-09 18:25:14 WARN  LotOracle:15 - 31: com.revature.driver.Driver
+2020-02-09 18:25:14 WARN  LotOracle:15 - 16: com.revature.driver.Driver
+2020-02-09 18:27:54 ERROR LotOracle:13 - class java.sql.SQLException: Missing IN or OUT parameter at index:: 7
+2020-02-09 18:27:54 WARN  LotOracle:15 - 1937: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 18:27:54 WARN  LotOracle:15 - 3657: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 18:27:54 WARN  LotOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 18:27:54 WARN  LotOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 18:27:54 WARN  LotOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 18:27:54 WARN  LotOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-09 18:27:54 WARN  LotOracle:15 - 47: com.revature.data.LotOracle
+2020-02-09 18:27:54 WARN  LotOracle:15 - 152: com.revature.beans.Menus
+2020-02-09 18:27:54 WARN  LotOracle:15 - 75: com.revature.beans.Menus
+2020-02-09 18:27:54 WARN  LotOracle:15 - 69: com.revature.driver.Driver
+2020-02-09 18:27:54 WARN  LotOracle:15 - 31: com.revature.driver.Driver
+2020-02-09 18:27:54 WARN  LotOracle:15 - 16: com.revature.driver.Driver
+2020-02-09 18:59:07 ERROR LotOracle:13 - class java.lang.ClassCastException: oracle.jdbc.driver.OracleStatementWrapper cannot be cast to java.beans.Statement
+2020-02-09 18:59:07 WARN  LotOracle:15 - 66: com.revature.data.LotOracle
+2020-02-09 18:59:07 WARN  LotOracle:15 - 39: com.revature.beans.Menus
+2020-02-09 18:59:07 WARN  LotOracle:15 - 24: com.revature.beans.Menus
+2020-02-09 18:59:07 WARN  LotOracle:15 - 48: com.revature.driver.Driver
+2020-02-09 18:59:07 WARN  LotOracle:15 - 31: com.revature.driver.Driver
+2020-02-09 18:59:07 WARN  LotOracle:15 - 16: com.revature.driver.Driver
+2020-02-09 19:14:28 ERROR LotOracle:13 - class java.sql.SQLException: Invalid column name
+2020-02-09 19:14:28 WARN  LotOracle:15 - 3899: oracle.jdbc.driver.OracleStatement
+2020-02-09 19:14:28 WARN  LotOracle:15 - 3857: oracle.jdbc.driver.OracleStatement
+2020-02-09 19:14:28 WARN  LotOracle:15 - 270: oracle.jdbc.driver.InsensitiveScrollableResultSet
+2020-02-09 19:14:28 WARN  LotOracle:15 - 556: oracle.jdbc.driver.GeneratedResultSet
+2020-02-09 19:14:28 WARN  LotOracle:15 - 78: com.revature.data.LotOracle
+2020-02-09 19:14:28 WARN  LotOracle:15 - 39: com.revature.beans.Menus
+2020-02-09 19:14:28 WARN  LotOracle:15 - 24: com.revature.beans.Menus
+2020-02-09 19:14:28 WARN  LotOracle:15 - 48: com.revature.driver.Driver
+2020-02-09 19:14:28 WARN  LotOracle:15 - 31: com.revature.driver.Driver
+2020-02-09 19:14:28 WARN  LotOracle:15 - 16: com.revature.driver.Driver
+2020-02-09 19:45:06 TRACE LotOracle:57 - Getting all available cars on lot.
+2020-02-09 19:47:05 TRACE LotOracle:57 - Getting all available cars on lot.
+2020-02-09 19:52:46 TRACE LotOracle:57 - Getting all available cars on lot.
+2020-02-09 19:57:03 TRACE LotOracle:57 - Getting all available cars on lot.
+2020-02-09 19:58:57 TRACE LotOracle:57 - Getting all available cars on lot.
+2020-02-09 20:12:13 TRACE LotOracle:57 - Getting all available cars on lot.
+2020-02-09 20:57:20 TRACE LotOracle:78 - Getting all available cars on lot.
+2020-02-09 20:57:26 TRACE LotOracle:51 - Removing car of id3
+2020-02-09 20:57:26 ERROR LotOracle:13 - class java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not exist
+
+2020-02-09 20:57:26 WARN  LotOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 20:57:26 WARN  LotOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 20:57:26 WARN  LotOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-09 20:57:26 WARN  LotOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 20:57:26 WARN  LotOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 20:57:26 WARN  LotOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-09 20:57:26 WARN  LotOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 20:57:26 WARN  LotOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 20:57:26 WARN  LotOracle:15 - 970: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 20:57:26 WARN  LotOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-09 20:57:26 WARN  LotOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 20:57:26 WARN  LotOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 20:57:26 WARN  LotOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 20:57:26 WARN  LotOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 20:57:26 WARN  LotOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-09 20:57:26 WARN  LotOracle:15 - 58: com.revature.data.LotOracle
+2020-02-09 20:57:26 WARN  LotOracle:15 - 130: com.revature.beans.Menus
+2020-02-09 20:57:26 WARN  LotOracle:15 - 82: com.revature.beans.Menus
+2020-02-09 20:57:26 WARN  LotOracle:15 - 68: com.revature.driver.Driver
+2020-02-09 20:57:26 WARN  LotOracle:15 - 30: com.revature.driver.Driver
+2020-02-09 20:57:26 WARN  LotOracle:15 - 16: com.revature.driver.Driver
+2020-02-09 20:59:06 TRACE LotOracle:78 - Getting all available cars on lot.
+2020-02-09 20:59:20 TRACE LotOracle:51 - Removing car of id3
+2020-02-09 20:59:20 TRACE LotOracle:61 - Car successfully deleted
+2020-02-09 21:39:51 TRACE UserOracle:23 - Registering account with the database.
+2020-02-09 21:39:52 ERROR UserOracle:13 - class java.sql.SQLSyntaxErrorException: ORA-00931: missing identifier
+
+2020-02-09 21:39:52 WARN  UserOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:39:52 WARN  UserOracle:15 - 456: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:39:52 WARN  UserOracle:15 - 451: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:39:52 WARN  UserOracle:15 - 1040: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:39:52 WARN  UserOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:39:52 WARN  UserOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:39:52 WARN  UserOracle:15 - 146: oracle.jdbc.driver.T4C8Odsy
+2020-02-09 21:39:52 WARN  UserOracle:15 - 126: oracle.jdbc.driver.T4C8Odsy
+2020-02-09 21:39:52 WARN  UserOracle:15 - 5168: oracle.jdbc.driver.T4CConnection
+2020-02-09 21:39:52 WARN  UserOracle:15 - 4654: oracle.jdbc.driver.PhysicalConnection
+2020-02-09 21:39:52 WARN  UserOracle:15 - 35: com.revature.data.UserOracle
+2020-02-09 21:39:52 WARN  UserOracle:15 - 46: com.revature.driver.Driver
+2020-02-09 21:39:52 WARN  UserOracle:15 - 32: com.revature.driver.Driver
+2020-02-09 21:39:52 WARN  UserOracle:15 - 17: com.revature.driver.Driver
+2020-02-09 21:42:34 TRACE UserOracle:23 - Registering account with the database.
+2020-02-09 21:42:36 ERROR UserOracle:13 - class java.sql.SQLException: Invalid argument(s) in call
+2020-02-09 21:42:36 WARN  UserOracle:15 - 189: oracle.jdbc.driver.AutoKeyInfo
+2020-02-09 21:42:36 WARN  UserOracle:15 - 4656: oracle.jdbc.driver.PhysicalConnection
+2020-02-09 21:42:36 WARN  UserOracle:15 - 35: com.revature.data.UserOracle
+2020-02-09 21:42:36 WARN  UserOracle:15 - 46: com.revature.driver.Driver
+2020-02-09 21:42:36 WARN  UserOracle:15 - 32: com.revature.driver.Driver
+2020-02-09 21:42:36 WARN  UserOracle:15 - 17: com.revature.driver.Driver
+2020-02-09 21:43:38 TRACE UserOracle:23 - Registering account with the database.
+2020-02-09 21:43:40 TRACE UserOracle:45 - User Created.
+2020-02-09 21:43:40 ERROR UserOracle:13 - class java.sql.SQLException: ResultSet.next was not called
+2020-02-09 21:43:40 WARN  UserOracle:15 - 244: oracle.jdbc.driver.GeneratedScrollableResultSet
+2020-02-09 21:43:40 WARN  UserOracle:15 - 46: com.revature.data.UserOracle
+2020-02-09 21:43:40 WARN  UserOracle:15 - 46: com.revature.driver.Driver
+2020-02-09 21:43:40 WARN  UserOracle:15 - 32: com.revature.driver.Driver
+2020-02-09 21:43:40 WARN  UserOracle:15 - 17: com.revature.driver.Driver
+2020-02-09 21:44:36 TRACE UserOracle:23 - Registering account with the database.
+2020-02-09 21:44:38 TRACE UserOracle:45 - User Created.
+2020-02-09 21:44:38 ERROR UserOracle:13 - class java.sql.SQLException: ResultSet.next was not called
+2020-02-09 21:44:38 WARN  UserOracle:15 - 244: oracle.jdbc.driver.GeneratedScrollableResultSet
+2020-02-09 21:44:38 WARN  UserOracle:15 - 46: com.revature.data.UserOracle
+2020-02-09 21:44:38 WARN  UserOracle:15 - 46: com.revature.driver.Driver
+2020-02-09 21:44:38 WARN  UserOracle:15 - 32: com.revature.driver.Driver
+2020-02-09 21:44:38 WARN  UserOracle:15 - 17: com.revature.driver.Driver
+2020-02-09 21:47:49 TRACE UserOracle:23 - Registering account with the database.
+2020-02-09 21:47:51 TRACE UserOracle:45 - User account successfully registered.
+2020-02-09 21:48:33 TRACE UserOracle:23 - Registering account with the database.
+2020-02-09 21:48:36 ERROR UserOracle:13 - class java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (ADMIN.SYS_C004292) violated
+
+2020-02-09 21:48:36 WARN  UserOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:48:36 WARN  UserOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:48:36 WARN  UserOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-09 21:48:36 WARN  UserOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:48:36 WARN  UserOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:48:36 WARN  UserOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-09 21:48:36 WARN  UserOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:48:36 WARN  UserOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:48:36 WARN  UserOracle:15 - 970: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:48:36 WARN  UserOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-09 21:48:36 WARN  UserOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:48:36 WARN  UserOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:48:36 WARN  UserOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:48:36 WARN  UserOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:48:36 WARN  UserOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-09 21:48:36 WARN  UserOracle:15 - 40: com.revature.data.UserOracle
+2020-02-09 21:48:36 WARN  UserOracle:15 - 46: com.revature.driver.Driver
+2020-02-09 21:48:36 WARN  UserOracle:15 - 32: com.revature.driver.Driver
+2020-02-09 21:48:36 WARN  UserOracle:15 - 17: com.revature.driver.Driver
+2020-02-09 21:52:31 TRACE UserOracle:24 - Registering account with the database.
+2020-02-09 21:52:33 ERROR UserOracle:13 - class java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (ADMIN.SYS_C004292) violated
+
+2020-02-09 21:52:33 WARN  UserOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:52:33 WARN  UserOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:52:33 WARN  UserOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-09 21:52:33 WARN  UserOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:52:33 WARN  UserOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:52:33 WARN  UserOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-09 21:52:33 WARN  UserOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:52:33 WARN  UserOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:52:33 WARN  UserOracle:15 - 970: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:52:33 WARN  UserOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-09 21:52:33 WARN  UserOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:52:33 WARN  UserOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:52:33 WARN  UserOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:52:33 WARN  UserOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:52:33 WARN  UserOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-09 21:52:33 WARN  UserOracle:15 - 41: com.revature.data.UserOracle
+2020-02-09 21:52:33 WARN  UserOracle:15 - 46: com.revature.driver.Driver
+2020-02-09 21:52:33 WARN  UserOracle:15 - 32: com.revature.driver.Driver
+2020-02-09 21:52:33 WARN  UserOracle:15 - 17: com.revature.driver.Driver
+2020-02-09 21:52:56 TRACE UserOracle:24 - Registering account with the database.
+2020-02-09 21:52:58 TRACE UserOracle:46 - User account successfully registered.
+2020-02-09 21:57:01 TRACE UserOracle:24 - Registering account with the database.
+2020-02-09 21:57:03 ERROR UserOracle:13 - class java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (ADMIN.SYS_C004292) violated
+
+2020-02-09 21:57:03 WARN  UserOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:57:03 WARN  UserOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:57:03 WARN  UserOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-09 21:57:03 WARN  UserOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:57:03 WARN  UserOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:57:03 WARN  UserOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-09 21:57:03 WARN  UserOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:57:03 WARN  UserOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:57:03 WARN  UserOracle:15 - 970: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:57:03 WARN  UserOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-09 21:57:03 WARN  UserOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:57:03 WARN  UserOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:57:03 WARN  UserOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:57:03 WARN  UserOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:57:03 WARN  UserOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-09 21:57:03 WARN  UserOracle:15 - 41: com.revature.data.UserOracle
+2020-02-09 21:57:03 WARN  UserOracle:15 - 46: com.revature.driver.Driver
+2020-02-09 21:57:03 WARN  UserOracle:15 - 32: com.revature.driver.Driver
+2020-02-09 21:57:03 WARN  UserOracle:15 - 17: com.revature.driver.Driver
+2020-02-09 21:57:54 TRACE UserOracle:24 - Registering account with the database.
+2020-02-09 21:57:57 ERROR UserOracle:13 - class java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (ADMIN.SYS_C004292) violated
+
+2020-02-09 21:57:57 WARN  UserOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:57:57 WARN  UserOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-09 21:57:57 WARN  UserOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-09 21:57:57 WARN  UserOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:57:57 WARN  UserOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-09 21:57:57 WARN  UserOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-09 21:57:57 WARN  UserOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:57:57 WARN  UserOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:57:57 WARN  UserOracle:15 - 970: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:57:57 WARN  UserOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-09 21:57:57 WARN  UserOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:57:57 WARN  UserOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-09 21:57:57 WARN  UserOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:57:57 WARN  UserOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-09 21:57:57 WARN  UserOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-09 21:57:57 WARN  UserOracle:15 - 41: com.revature.data.UserOracle
+2020-02-09 21:57:57 WARN  UserOracle:15 - 46: com.revature.driver.Driver
+2020-02-09 21:57:57 WARN  UserOracle:15 - 32: com.revature.driver.Driver
+2020-02-09 21:57:57 WARN  UserOracle:15 - 17: com.revature.driver.Driver
+2020-02-09 21:58:15 TRACE UserOracle:24 - Registering account with the database.
+2020-02-09 21:58:16 TRACE UserOracle:46 - User account successfully registered.
+2020-02-09 22:50:44 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-09 22:51:55 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 17:28:33 TRACE LotOracle:77 - Retrieving car of id1
+2020-02-10 17:28:33 TRACE LotOracle:77 - Retrieving car of id1
+2020-02-10 17:28:36 ERROR LotOracle:13 - class java.sql.SQLException: ORA-01008: not all variables bound
+
+2020-02-10 17:28:36 ERROR LotOracle:13 - class java.sql.SQLException: ORA-01008: not all variables bound
+
+2020-02-10 17:28:36 WARN  LotOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 17:28:36 WARN  LotOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 17:28:36 WARN  LotOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 17:28:36 WARN  LotOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 17:28:36 WARN  LotOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-10 17:28:36 WARN  LotOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-10 17:28:36 WARN  LotOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 17:28:36 WARN  LotOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 17:28:36 WARN  LotOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 17:28:36 WARN  LotOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 17:28:36 WARN  LotOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-10 17:28:36 WARN  LotOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-10 17:28:36 WARN  LotOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 807: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 807: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 983: oracle.jdbc.driver.OracleStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 983: oracle.jdbc.driver.OracleStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 1168: oracle.jdbc.driver.OracleStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 1168: oracle.jdbc.driver.OracleStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 1362: oracle.jdbc.driver.OracleStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 1362: oracle.jdbc.driver.OracleStatement
+2020-02-10 17:28:36 WARN  LotOracle:15 - 369: oracle.jdbc.driver.OracleStatementWrapper
+2020-02-10 17:28:36 WARN  LotOracle:15 - 369: oracle.jdbc.driver.OracleStatementWrapper
+2020-02-10 17:28:36 WARN  LotOracle:15 - 86: com.revature.data.LotOracle
+2020-02-10 17:28:36 WARN  LotOracle:15 - 86: com.revature.data.LotOracle
+2020-02-10 17:28:36 WARN  LotOracle:15 - 21: com.revature.driver.Driver
+2020-02-10 17:28:36 WARN  LotOracle:15 - 21: com.revature.driver.Driver
+2020-02-10 17:30:30 TRACE LotOracle:77 - Retrieving car of id 1
+2020-02-10 17:30:32 ERROR LotOracle:13 - class java.sql.SQLException: ORA-01008: not all variables bound
+
+2020-02-10 17:30:32 WARN  LotOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 17:30:32 WARN  LotOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 17:30:32 WARN  LotOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-10 17:30:32 WARN  LotOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 17:30:32 WARN  LotOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 17:30:32 WARN  LotOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-10 17:30:32 WARN  LotOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 17:30:32 WARN  LotOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 17:30:32 WARN  LotOracle:15 - 807: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 17:30:32 WARN  LotOracle:15 - 983: oracle.jdbc.driver.OracleStatement
+2020-02-10 17:30:32 WARN  LotOracle:15 - 1168: oracle.jdbc.driver.OracleStatement
+2020-02-10 17:30:32 WARN  LotOracle:15 - 1362: oracle.jdbc.driver.OracleStatement
+2020-02-10 17:30:32 WARN  LotOracle:15 - 369: oracle.jdbc.driver.OracleStatementWrapper
+2020-02-10 17:30:32 WARN  LotOracle:15 - 86: com.revature.data.LotOracle
+2020-02-10 17:30:33 WARN  LotOracle:15 - 22: com.revature.driver.Driver
+2020-02-10 17:34:04 TRACE LotOracle:77 - Retrieving car of id 1
+2020-02-10 17:34:06 TRACE LotOracle:88 - Car Found!
+2020-02-10 19:36:43 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:36:59 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:38:05 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:39:00 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:40:59 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:41:39 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:43:01 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:47:35 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:48:03 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:50:15 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:50:31 TRACE LotOracle:108 - Getting all available cars on lot.
+2020-02-10 19:50:40 TRACE LotOracle:77 - Retrieving car of id 3
+2020-02-10 19:50:40 TRACE LotOracle:88 - Car Found!
+2020-02-10 19:51:15 TRACE UserOracle:26 - Inserting offer into database
+2020-02-10 19:51:15 TRACE UserOracle:27 - com.revature.beans.Offers@217ed35e
+2020-02-10 19:51:15 ERROR OfferOracle:13 - class java.sql.SQLSyntaxErrorException: ORA-04043: object OFFER does not exist
+
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 456: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 451: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 1040: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 146: oracle.jdbc.driver.T4C8Odsy
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 126: oracle.jdbc.driver.T4C8Odsy
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 5168: oracle.jdbc.driver.T4CConnection
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 4654: oracle.jdbc.driver.PhysicalConnection
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 33: com.revature.data.OfferOracle
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 72: com.revature.beans.Menus
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 48: com.revature.beans.Menus
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 26: com.revature.beans.Menus
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 76: com.revature.driver.Driver
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 36: com.revature.driver.Driver
+2020-02-10 19:51:15 WARN  OfferOracle:15 - 22: com.revature.driver.Driver
+2020-02-10 19:52:11 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:52:16 TRACE LotOracle:108 - Getting all available cars on lot.
+2020-02-10 19:52:20 TRACE LotOracle:77 - Retrieving car of id 3
+2020-02-10 19:52:21 TRACE LotOracle:88 - Car Found!
+2020-02-10 19:52:31 TRACE UserOracle:26 - Inserting offer into database
+2020-02-10 19:52:31 TRACE UserOracle:27 - com.revature.beans.Offers@217ed35e
+2020-02-10 19:52:31 ERROR OfferOracle:13 - class java.sql.SQLSyntaxErrorException: ORA-00917: missing comma
+
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 970: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 40: com.revature.data.OfferOracle
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 72: com.revature.beans.Menus
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 48: com.revature.beans.Menus
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 26: com.revature.beans.Menus
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 76: com.revature.driver.Driver
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 36: com.revature.driver.Driver
+2020-02-10 19:52:31 WARN  OfferOracle:15 - 22: com.revature.driver.Driver
+2020-02-10 19:53:30 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-10 19:53:34 TRACE LotOracle:108 - Getting all available cars on lot.
+2020-02-10 19:53:37 TRACE LotOracle:77 - Retrieving car of id 3
+2020-02-10 19:53:37 TRACE LotOracle:88 - Car Found!
+2020-02-10 19:53:51 TRACE UserOracle:26 - Inserting offer into database
+2020-02-10 19:53:51 TRACE UserOracle:27 - com.revature.beans.Offers@217ed35e
+2020-02-10 19:53:51 TRACE UserOracle:44 - Offer successfully created.
+2020-02-11 00:10:34 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 00:45:43 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 00:45:48 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 00:46:26 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 00:46:32 TRACE LotOracle:108 - Getting all available cars on lot.
+2020-02-11 00:48:08 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 00:48:22 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 00:50:03 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 00:50:15 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 00:57:06 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 00:57:23 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 00:57:34 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 00:57:35 TRACE UserOracle:49 - Offer found!
+2020-02-11 00:57:35 TRACE UserOracle:49 - Offer found!
+2020-02-11 00:57:35 TRACE UserOracle:49 - Offer found!
+2020-02-11 00:57:35 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:01:29 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 01:01:33 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 01:01:34 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:01:34 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:01:34 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:01:34 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:03:10 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 01:03:14 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 01:03:15 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:03:15 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:03:15 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:03:15 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:06:27 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 01:06:32 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 01:06:32 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:06:32 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:06:32 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:06:32 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:11:18 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 01:11:25 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 01:11:25 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:11:25 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:11:25 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:11:25 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:12:03 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 01:12:15 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 01:12:15 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:12:15 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:12:15 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:12:15 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:12:29 TRACE UserOracle:27 - Attempting to run Stored Procedure to accept offer in SQL File.
+2020-02-11 01:12:29 ERROR OfferOracle:13 - class java.sql.SQLException: ORA-06575: Package or function ACCEPTOFFER is in an invalid state
+
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 265: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 86: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 965: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 1358: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 4274: oracle.jdbc.driver.OracleCallableStatement
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 32: com.revature.data.OfferOracle
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 117: com.revature.beans.Menus
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 95: com.revature.beans.Menus
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 79: com.revature.driver.Driver
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 37: com.revature.driver.Driver
+2020-02-11 01:12:29 WARN  OfferOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 01:37:48 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 01:37:53 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 01:37:54 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:37:54 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:37:54 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:37:54 TRACE UserOracle:49 - Offer found!
+2020-02-11 01:38:05 TRACE UserOracle:27 - Attempting to run Stored Procedure to accept offer in SQL File.
+2020-02-11 01:38:05 ERROR OfferOracle:13 - class java.sql.SQLException: ORA-06575: Package or function ACCEPTOFFER is in an invalid state
+
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 265: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 86: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 965: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 1358: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 4274: oracle.jdbc.driver.OracleCallableStatement
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 32: com.revature.data.OfferOracle
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 117: com.revature.beans.Menus
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 95: com.revature.beans.Menus
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 79: com.revature.driver.Driver
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 37: com.revature.driver.Driver
+2020-02-11 01:38:05 WARN  OfferOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 10:52:53 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 10:52:59 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 10:52:59 TRACE UserOracle:49 - Offer found!
+2020-02-11 10:52:59 TRACE UserOracle:49 - Offer found!
+2020-02-11 10:52:59 TRACE UserOracle:49 - Offer found!
+2020-02-11 10:52:59 TRACE UserOracle:49 - Offer found!
+2020-02-11 11:45:14 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 11:45:27 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 11:45:27 TRACE UserOracle:49 - Offer found!
+2020-02-11 11:45:27 TRACE UserOracle:49 - Offer found!
+2020-02-11 11:45:27 TRACE UserOracle:49 - Offer found!
+2020-02-11 11:45:27 TRACE UserOracle:49 - Offer found!
+2020-02-11 11:45:43 TRACE UserOracle:27 - Attempting to run Stored Procedure to accept offer in SQL File.
+2020-02-11 11:45:44 TRACE UserOracle:33 - Successfully completed stored procedure: acceptOffer
+2020-02-11 14:27:51 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 14:27:57 TRACE UserOracle:41 - Getting all offers in the database
+2020-02-11 14:27:57 TRACE UserOracle:49 - Offer found!
+2020-02-11 14:27:57 TRACE UserOracle:49 - Offer found!
+2020-02-11 14:27:57 TRACE UserOracle:49 - Offer found!
+2020-02-11 14:27:57 TRACE UserOracle:49 - Offer found!
+2020-02-11 14:32:41 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 14:39:05 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 14:39:47 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 17:18:02 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 17:18:07 TRACE UserOracle:70 - Getting all offers in the database
+2020-02-11 17:18:08 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:18:08 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:18:08 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:18:08 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:18:19 TRACE UserOracle:40 - Updated offer 1 in database to 'rejected'
+2020-02-11 17:18:20 ERROR LotOracle:13 - class java.sql.SQLSyntaxErrorException: ORA-00911: invalid character
+
+2020-02-11 17:18:20 WARN  LotOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 17:18:20 WARN  LotOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 17:18:20 WARN  LotOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-11 17:18:20 WARN  LotOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 17:18:20 WARN  LotOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 17:18:20 WARN  LotOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-11 17:18:20 WARN  LotOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:18:20 WARN  LotOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:18:20 WARN  LotOracle:15 - 970: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:18:20 WARN  LotOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-11 17:18:20 WARN  LotOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:18:20 WARN  LotOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:18:20 WARN  LotOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:18:20 WARN  LotOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:18:20 WARN  LotOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-11 17:18:20 WARN  LotOracle:15 - 48: com.revature.data.OfferOracle
+2020-02-11 17:18:20 WARN  LotOracle:15 - 125: com.revature.beans.Menus
+2020-02-11 17:18:20 WARN  LotOracle:15 - 97: com.revature.beans.Menus
+2020-02-11 17:18:20 WARN  LotOracle:15 - 83: com.revature.driver.Driver
+2020-02-11 17:18:20 WARN  LotOracle:15 - 39: com.revature.driver.Driver
+2020-02-11 17:18:20 WARN  LotOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 17:19:32 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 17:19:40 TRACE UserOracle:70 - Getting all offers in the database
+2020-02-11 17:19:41 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:19:41 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:19:41 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:19:41 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:19:47 TRACE UserOracle:40 - Updated offer 1 in database to 'rejected'
+2020-02-11 17:19:48 ERROR OfferOracle:13 - class java.sql.SQLSyntaxErrorException: ORA-00911: invalid character
+
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 970: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 48: com.revature.data.OfferOracle
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 125: com.revature.beans.Menus
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 97: com.revature.beans.Menus
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 83: com.revature.driver.Driver
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 39: com.revature.driver.Driver
+2020-02-11 17:19:48 WARN  OfferOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 17:21:00 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 17:21:04 TRACE UserOracle:70 - Getting all offers in the database
+2020-02-11 17:21:05 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:21:05 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:21:05 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:21:05 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:21:09 TRACE UserOracle:40 - Updated offer 1 in database to 'rejected'
+2020-02-11 17:21:09 TRACE UserOracle:51 - Offer successfully updated
+2020-02-11 17:24:26 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 17:25:54 TRACE UserOracle:29 - Registering account with the database.
+2020-02-11 17:25:57 ERROR UserOracle:13 - class java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (ADMIN.SYS_C004591) violated
+
+2020-02-11 17:25:57 WARN  UserOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 17:25:57 WARN  UserOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 17:25:57 WARN  UserOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-11 17:25:57 WARN  UserOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 17:25:57 WARN  UserOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 17:25:57 WARN  UserOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-11 17:25:57 WARN  UserOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:25:57 WARN  UserOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:25:57 WARN  UserOracle:15 - 970: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:25:57 WARN  UserOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-11 17:25:57 WARN  UserOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:25:57 WARN  UserOracle:15 - 1426: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-11 17:25:57 WARN  UserOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:25:57 WARN  UserOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:25:57 WARN  UserOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-11 17:25:57 WARN  UserOracle:15 - 46: com.revature.data.UserOracle
+2020-02-11 17:25:57 WARN  UserOracle:15 - 56: com.revature.driver.Driver
+2020-02-11 17:25:57 WARN  UserOracle:15 - 40: com.revature.driver.Driver
+2020-02-11 17:25:57 WARN  UserOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 17:26:19 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 17:52:11 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 17:52:17 TRACE UserOracle:70 - Getting all offers in the database
+2020-02-11 17:52:18 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:52:18 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:52:18 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:52:18 TRACE UserOracle:78 - Offer found!
+2020-02-11 17:52:27 TRACE UserOracle:27 - Attempting to run Stored Procedure to accept offer in SQL File.
+2020-02-11 17:52:28 ERROR OfferOracle:13 - class java.sql.SQLException: ORA-01427: single-row subquery returns more than one row
+ORA-06512: at "ADMIN.ACCEPTOFFER", line 15
+
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 265: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 86: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 965: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 1205: oracle.jdbc.driver.OracleStatement
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 3666: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 1358: oracle.jdbc.driver.T4CCallableStatement
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 3756: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 3736: oracle.jdbc.driver.OraclePreparedStatement
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 4274: oracle.jdbc.driver.OracleCallableStatement
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 1063: oracle.jdbc.driver.OraclePreparedStatementWrapper
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 32: com.revature.data.OfferOracle
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 119: com.revature.beans.Menus
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 97: com.revature.beans.Menus
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 83: com.revature.driver.Driver
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 39: com.revature.driver.Driver
+2020-02-11 17:52:28 WARN  OfferOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 18:38:48 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 18:38:49 ERROR ConnectionUtil:13 - class java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 854: oracle.jdbc.driver.T4CConnection
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 793: oracle.jdbc.driver.PhysicalConnection
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 57: oracle.jdbc.driver.T4CDriverExtension
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 747: oracle.jdbc.driver.OracleDriver
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 562: oracle.jdbc.driver.OracleDriver
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 664: java.sql.DriverManager
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 247: java.sql.DriverManager
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 34: com.revature.utils.ConnectionUtil
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 75: com.revature.data.UserOracle
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 76: com.revature.driver.Driver
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 39: com.revature.driver.Driver
+2020-02-11 18:38:49 WARN  ConnectionUtil:15 - 23: com.revature.driver.Driver
+2020-02-11 18:38:49 ERROR UserOracle:13 - class java.lang.NullPointerException: null
+2020-02-11 18:38:49 WARN  UserOracle:15 - 78: com.revature.data.UserOracle
+2020-02-11 18:38:49 WARN  UserOracle:15 - 76: com.revature.driver.Driver
+2020-02-11 18:38:49 WARN  UserOracle:15 - 39: com.revature.driver.Driver
+2020-02-11 18:38:49 WARN  UserOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 18:39:17 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 18:56:01 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 18:56:19 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 18:56:25 TRACE LotOracle:108 - Getting all available cars on lot.
+2020-02-11 19:01:25 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 19:02:22 TRACE LotOracle:108 - Getting all available cars on lot.
+2020-02-11 20:05:13 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 20:05:19 TRACE LotOracle:135 - Getting cars that belong to customer.
+2020-02-11 20:06:08 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 20:12:22 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 20:12:28 TRACE LotOracle:135 - Getting cars that belong to customer.
+2020-02-11 21:51:04 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 21:51:05 ERROR ConnectionUtil:13 - class java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 854: oracle.jdbc.driver.T4CConnection
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 793: oracle.jdbc.driver.PhysicalConnection
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 57: oracle.jdbc.driver.T4CDriverExtension
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 747: oracle.jdbc.driver.OracleDriver
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 562: oracle.jdbc.driver.OracleDriver
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 664: java.sql.DriverManager
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 247: java.sql.DriverManager
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 34: com.revature.utils.ConnectionUtil
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 75: com.revature.data.UserOracle
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 75: com.revature.driver.Driver
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 38: com.revature.driver.Driver
+2020-02-11 21:51:05 WARN  ConnectionUtil:15 - 23: com.revature.driver.Driver
+2020-02-11 21:51:05 ERROR UserOracle:13 - class java.lang.NullPointerException: null
+2020-02-11 21:51:05 WARN  UserOracle:15 - 78: com.revature.data.UserOracle
+2020-02-11 21:51:05 WARN  UserOracle:15 - 75: com.revature.driver.Driver
+2020-02-11 21:51:05 WARN  UserOracle:15 - 38: com.revature.driver.Driver
+2020-02-11 21:51:05 WARN  UserOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 21:51:32 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 21:51:35 ERROR ConnectionUtil:13 - class java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 854: oracle.jdbc.driver.T4CConnection
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 793: oracle.jdbc.driver.PhysicalConnection
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 57: oracle.jdbc.driver.T4CDriverExtension
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 747: oracle.jdbc.driver.OracleDriver
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 562: oracle.jdbc.driver.OracleDriver
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 664: java.sql.DriverManager
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 247: java.sql.DriverManager
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 34: com.revature.utils.ConnectionUtil
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 75: com.revature.data.UserOracle
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 75: com.revature.driver.Driver
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 38: com.revature.driver.Driver
+2020-02-11 21:51:35 WARN  ConnectionUtil:15 - 23: com.revature.driver.Driver
+2020-02-11 21:51:35 ERROR UserOracle:13 - class java.lang.NullPointerException: null
+2020-02-11 21:51:35 WARN  UserOracle:15 - 78: com.revature.data.UserOracle
+2020-02-11 21:51:35 WARN  UserOracle:15 - 75: com.revature.driver.Driver
+2020-02-11 21:51:35 WARN  UserOracle:15 - 38: com.revature.driver.Driver
+2020-02-11 21:51:35 WARN  UserOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 21:57:30 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 21:57:32 ERROR ConnectionUtil:13 - class java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 854: oracle.jdbc.driver.T4CConnection
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 793: oracle.jdbc.driver.PhysicalConnection
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 57: oracle.jdbc.driver.T4CDriverExtension
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 747: oracle.jdbc.driver.OracleDriver
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 562: oracle.jdbc.driver.OracleDriver
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 664: java.sql.DriverManager
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 247: java.sql.DriverManager
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 34: com.revature.utils.ConnectionUtil
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 75: com.revature.data.UserOracle
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 75: com.revature.driver.Driver
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 38: com.revature.driver.Driver
+2020-02-11 21:57:32 WARN  ConnectionUtil:15 - 23: com.revature.driver.Driver
+2020-02-11 21:57:32 ERROR UserOracle:13 - class java.lang.NullPointerException: null
+2020-02-11 21:57:32 WARN  UserOracle:15 - 78: com.revature.data.UserOracle
+2020-02-11 21:57:32 WARN  UserOracle:15 - 75: com.revature.driver.Driver
+2020-02-11 21:57:32 WARN  UserOracle:15 - 38: com.revature.driver.Driver
+2020-02-11 21:57:32 WARN  UserOracle:15 - 23: com.revature.driver.Driver
+2020-02-11 22:13:12 TRACE UserOracle:73 - Getting all registered users in the database
+2020-02-11 22:13:13 ERROR ConnectionUtil:13 - class java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 854: oracle.jdbc.driver.T4CConnection
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 793: oracle.jdbc.driver.PhysicalConnection
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 57: oracle.jdbc.driver.T4CDriverExtension
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 747: oracle.jdbc.driver.OracleDriver
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 562: oracle.jdbc.driver.OracleDriver
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 664: java.sql.DriverManager
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 247: java.sql.DriverManager
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 34: com.revature.utils.ConnectionUtil
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 75: com.revature.data.UserOracle
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 71: com.revature.driver.Driver
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 34: com.revature.driver.Driver
+2020-02-11 22:13:13 WARN  ConnectionUtil:15 - 19: com.revature.driver.Driver
+2020-02-11 22:13:13 ERROR UserOracle:13 - class java.lang.NullPointerException: null
+2020-02-11 22:13:13 WARN  UserOracle:15 - 78: com.revature.data.UserOracle
+2020-02-11 22:13:13 WARN  UserOracle:15 - 71: com.revature.driver.Driver
+2020-02-11 22:13:13 WARN  UserOracle:15 - 34: com.revature.driver.Driver
+2020-02-11 22:13:13 WARN  UserOracle:15 - 19: com.revature.driver.Driver
+2020-02-11 22:30:38 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-11 22:30:39 ERROR ConnectionUtil:13 - class java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 854: oracle.jdbc.driver.T4CConnection
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 793: oracle.jdbc.driver.PhysicalConnection
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 57: oracle.jdbc.driver.T4CDriverExtension
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 747: oracle.jdbc.driver.OracleDriver
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 562: oracle.jdbc.driver.OracleDriver
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 664: java.sql.DriverManager
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 247: java.sql.DriverManager
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 34: com.revature.utils.ConnectionUtil
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 76: com.revature.data.UserOracle
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 71: com.revature.driver.Driver
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 34: com.revature.driver.Driver
+2020-02-11 22:30:39 WARN  ConnectionUtil:15 - 19: com.revature.driver.Driver
+2020-02-11 22:30:39 ERROR UserOracle:13 - class java.lang.NullPointerException: null
+2020-02-11 22:30:39 WARN  UserOracle:15 - 79: com.revature.data.UserOracle
+2020-02-11 22:30:39 WARN  UserOracle:15 - 71: com.revature.driver.Driver
+2020-02-11 22:30:39 WARN  UserOracle:15 - 34: com.revature.driver.Driver
+2020-02-11 22:30:39 WARN  UserOracle:15 - 19: com.revature.driver.Driver
+2020-02-11 22:40:18 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-11 22:40:19 ERROR ConnectionUtil:13 - class java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 854: oracle.jdbc.driver.T4CConnection
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 793: oracle.jdbc.driver.PhysicalConnection
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 57: oracle.jdbc.driver.T4CDriverExtension
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 747: oracle.jdbc.driver.OracleDriver
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 562: oracle.jdbc.driver.OracleDriver
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 664: java.sql.DriverManager
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 247: java.sql.DriverManager
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 34: com.revature.utils.ConnectionUtil
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 76: com.revature.data.UserOracle
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 71: com.revature.driver.Driver
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 34: com.revature.driver.Driver
+2020-02-11 22:40:19 WARN  ConnectionUtil:15 - 19: com.revature.driver.Driver
+2020-02-11 22:40:19 ERROR UserOracle:13 - class java.lang.NullPointerException: null
+2020-02-11 22:40:19 WARN  UserOracle:15 - 79: com.revature.data.UserOracle
+2020-02-11 22:40:19 WARN  UserOracle:15 - 71: com.revature.driver.Driver
+2020-02-11 22:40:19 WARN  UserOracle:15 - 34: com.revature.driver.Driver
+2020-02-11 22:40:19 WARN  UserOracle:15 - 19: com.revature.driver.Driver
+2020-02-12 06:30:58 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:07:18 TRACE UserOracle:29 - Registering account with the database.
+2020-02-12 07:07:20 TRACE UserOracle:51 - User account successfully registered.
+2020-02-12 07:11:34 TRACE UserOracle:29 - Registering account with the database.
+2020-02-12 07:11:36 TRACE UserOracle:51 - User account successfully registered.
+2020-02-12 07:11:41 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:11:47 TRACE LotOracle:110 - Getting all available cars on lot.
+2020-02-12 07:11:53 TRACE LotOracle:79 - Retrieving car of id 2
+2020-02-12 07:11:54 TRACE LotOracle:90 - Car Found!
+2020-02-12 07:12:15 TRACE UserOracle:101 - Inserting offer into database
+2020-02-12 07:12:15 TRACE UserOracle:102 - Offers [id=1, person=6, car=2, total=10000, state=pending, downPayment=2000]
+2020-02-12 07:12:16 TRACE UserOracle:119 - Offer successfully created.
+2020-02-12 07:13:27 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:18:03 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:18:36 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:18:40 TRACE LotOracle:110 - Getting all available cars on lot.
+2020-02-12 07:18:47 TRACE LotOracle:53 - Removing car of id5
+2020-02-12 07:18:47 TRACE LotOracle:63 - Car successfully deleted
+2020-02-12 07:20:27 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:20:38 TRACE LotOracle:110 - Getting all available cars on lot.
+2020-02-12 07:21:32 TRACE UserOracle:29 - Registering account with the database.
+2020-02-12 07:21:33 TRACE UserOracle:51 - User account successfully registered.
+2020-02-12 07:21:42 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:21:45 TRACE LotOracle:110 - Getting all available cars on lot.
+2020-02-12 07:21:52 TRACE LotOracle:79 - Retrieving car of id 2
+2020-02-12 07:21:52 TRACE LotOracle:90 - Car Found!
+2020-02-12 07:22:04 TRACE UserOracle:101 - Inserting offer into database
+2020-02-12 07:22:04 TRACE UserOracle:102 - Offers [id=1, person=6, car=2, total=10000, state=pending, downPayment=1000]
+2020-02-12 07:22:05 TRACE UserOracle:119 - Offer successfully created.
+2020-02-12 07:22:49 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:23:29 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:23:38 TRACE UserOracle:71 - Getting all offers in the database
+2020-02-12 07:23:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:23:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:23:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:23:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:23:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:25:34 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:25:38 TRACE UserOracle:71 - Getting all offers in the database
+2020-02-12 07:25:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:25:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:25:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:25:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:25:38 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:25:45 TRACE UserOracle:27 - Attempting to run Stored Procedure to accept offer in SQL File.
+2020-02-12 07:25:46 TRACE UserOracle:33 - Successfully completed stored procedure: acceptOffer
+2020-02-12 07:28:10 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:28:15 TRACE UserOracle:71 - Getting all offers in the database
+2020-02-12 07:28:15 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:28:15 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:28:15 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:28:15 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:28:15 TRACE UserOracle:79 - Offer found!
+2020-02-12 07:28:24 TRACE UserOracle:41 - Updated offer 3 in database to 'rejected'
+2020-02-12 07:28:24 TRACE UserOracle:52 - Offer successfully updated
+2020-02-12 07:29:27 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:29:32 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 07:32:12 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 07:32:16 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 07:32:17 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 07:32:17 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 07:32:17 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:35:34 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 08:36:11 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 08:36:12 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 08:36:12 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:36:12 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:39:01 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 08:39:06 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 08:39:06 ERROR LotOracle:13 - class java.sql.SQLSyntaxErrorException: ORA-00904: "STATEE": invalid identifier
+
+2020-02-12 08:39:06 WARN  LotOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-12 08:39:06 WARN  LotOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-12 08:39:06 WARN  LotOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-12 08:39:06 WARN  LotOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-12 08:39:06 WARN  LotOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-12 08:39:06 WARN  LotOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-12 08:39:06 WARN  LotOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-12 08:39:06 WARN  LotOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-12 08:39:06 WARN  LotOracle:15 - 807: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-12 08:39:06 WARN  LotOracle:15 - 983: oracle.jdbc.driver.OracleStatement
+2020-02-12 08:39:06 WARN  LotOracle:15 - 1168: oracle.jdbc.driver.OracleStatement
+2020-02-12 08:39:06 WARN  LotOracle:15 - 1362: oracle.jdbc.driver.OracleStatement
+2020-02-12 08:39:06 WARN  LotOracle:15 - 369: oracle.jdbc.driver.OracleStatementWrapper
+2020-02-12 08:39:06 WARN  LotOracle:15 - 143: com.revature.data.LotOracle
+2020-02-12 08:39:06 WARN  LotOracle:15 - 38: com.revature.beans.Menus
+2020-02-12 08:39:06 WARN  LotOracle:15 - 30: com.revature.beans.Menus
+2020-02-12 08:39:06 WARN  LotOracle:15 - 76: com.revature.driver.Driver
+2020-02-12 08:39:06 WARN  LotOracle:15 - 34: com.revature.driver.Driver
+2020-02-12 08:39:06 WARN  LotOracle:15 - 19: com.revature.driver.Driver
+2020-02-12 08:39:06 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 08:39:07 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:39:07 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:40:30 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 08:40:37 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 08:40:37 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 08:40:38 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:40:38 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:41:59 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 08:42:04 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 08:42:04 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 08:42:05 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:42:05 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:44:02 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 08:44:06 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 08:44:06 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 08:44:07 ERROR LotOracle:13 - class java.sql.SQLSyntaxErrorException: ORA-00904: "STATUS": invalid identifier
+
+2020-02-12 08:44:07 WARN  LotOracle:15 - 509: oracle.jdbc.driver.T4CTTIoer11
+2020-02-12 08:44:07 WARN  LotOracle:15 - 461: oracle.jdbc.driver.T4CTTIoer11
+2020-02-12 08:44:07 WARN  LotOracle:15 - 1104: oracle.jdbc.driver.T4C8Oall
+2020-02-12 08:44:07 WARN  LotOracle:15 - 550: oracle.jdbc.driver.T4CTTIfun
+2020-02-12 08:44:07 WARN  LotOracle:15 - 268: oracle.jdbc.driver.T4CTTIfun
+2020-02-12 08:44:07 WARN  LotOracle:15 - 655: oracle.jdbc.driver.T4C8Oall
+2020-02-12 08:44:07 WARN  LotOracle:15 - 270: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-12 08:44:07 WARN  LotOracle:15 - 91: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-12 08:44:07 WARN  LotOracle:15 - 807: oracle.jdbc.driver.T4CPreparedStatement
+2020-02-12 08:44:07 WARN  LotOracle:15 - 983: oracle.jdbc.driver.OracleStatement
+2020-02-12 08:44:07 WARN  LotOracle:15 - 1168: oracle.jdbc.driver.OracleStatement
+2020-02-12 08:44:07 WARN  LotOracle:15 - 1362: oracle.jdbc.driver.OracleStatement
+2020-02-12 08:44:07 WARN  LotOracle:15 - 369: oracle.jdbc.driver.OracleStatementWrapper
+2020-02-12 08:44:07 WARN  LotOracle:15 - 170: com.revature.data.LotOracle
+2020-02-12 08:44:07 WARN  LotOracle:15 - 92: com.revature.beans.Menus
+2020-02-12 08:44:07 WARN  LotOracle:15 - 43: com.revature.beans.Menus
+2020-02-12 08:44:07 WARN  LotOracle:15 - 30: com.revature.beans.Menus
+2020-02-12 08:44:07 WARN  LotOracle:15 - 76: com.revature.driver.Driver
+2020-02-12 08:44:07 WARN  LotOracle:15 - 34: com.revature.driver.Driver
+2020-02-12 08:44:07 WARN  LotOracle:15 - 19: com.revature.driver.Driver
+2020-02-12 08:46:54 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 08:46:57 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 08:46:57 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 08:46:58 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:47:41 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 08:47:45 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 08:47:45 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 08:47:46 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 08:49:34 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 08:49:38 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 08:49:39 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 08:49:39 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 09:46:21 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 09:46:31 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 09:46:31 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 09:46:32 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 09:50:40 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 09:50:48 TRACE LotOracle:138 - Getting cars that belong to customer.
+2020-02-12 09:50:48 TRACE LotOracle:164 - Getting the remaining payments for customer.
+2020-02-12 09:50:49 TRACE LotOracle:173 - Account with remaining payments found!
+2020-02-12 10:08:00 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 10:08:05 TRACE UserOracle:68 - Getting all offers in the database
+2020-02-12 10:08:05 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:08:05 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:08:05 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:08:05 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:11:06 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 10:11:15 TRACE UserOracle:68 - Getting all offers in the database
+2020-02-12 10:11:16 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:11:16 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:11:16 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:11:16 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:16:52 TRACE UserOracle:74 - Getting all registered users in the database
+2020-02-12 10:16:57 TRACE UserOracle:68 - Getting all offers in the database
+2020-02-12 10:16:57 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:16:57 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:16:57 TRACE UserOracle:76 - Offer found!
+2020-02-12 10:16:57 TRACE UserOracle:76 - Offer found!
