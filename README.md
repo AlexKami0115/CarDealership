@@ -1,4 +1,4 @@
-# Programmed By: 
+# Programmed by 
 Alex Kamieniarczyk
 
 # Date
