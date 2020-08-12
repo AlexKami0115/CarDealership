@@ -22,7 +22,7 @@ Data is stored in a relational database built in OracleSQL.
 Total Points: 25 Points
 
 * As a user, I can login.
-	* 2 points
+	* 1 point
 * As an employee, I can add a car to the lot.
 	* 3 points
 * As a customer, I can view the cars on the lot.
@@ -32,7 +32,7 @@ Total Points: 25 Points
 * As an employee, I can accept or reject a pending offer for a car.
 	* 2 points
 * As the system, I update a car to an owned state when an offer is accepted.
-	* 2 points
+	* 3 points
 * As the system, I reject all other pending offers for a car when an offer is accepted.
 	* 3 points
 * As a user, I can register for a customer account.
